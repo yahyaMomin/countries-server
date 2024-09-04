@@ -1,0 +1,1820 @@
+[
+  {
+    "country": "India",
+    "NumbeoCoL2023": 22.9,
+    "NumbeoCoLPlusRent2023": 14.6,
+    "costOfLivingLC": 423,
+    "costOfLivingByCountry_cl_expatistan": 59,
+    "costOfLivingByCountry_cl_globalEcon": 42.86,
+    "NumbeoLocalPurchasingPowerIndex2023": 61.7
+  },
+  {
+    "country": "China",
+    "NumbeoCoL2023": 36.5,
+    "NumbeoCoLPlusRent2023": 26.6,
+    "costOfLivingLC": 752,
+    "costOfLivingByCountry_cl_expatistan": 115,
+    "costOfLivingByCountry_cl_globalEcon": 87.94,
+    "NumbeoLocalPurchasingPowerIndex2023": 58.2
+  },
+  {
+    "country": "United States",
+    "NumbeoCoL2023": 74.2,
+    "NumbeoCoLPlusRent2023": 61,
+    "costOfLivingLC": 1951,
+    "costOfLivingByCountry_cl_expatistan": 187,
+    "costOfLivingByCountry_cl_globalEcon": 143.34,
+    "NumbeoLocalPurchasingPowerIndex2023": 117.7
+  },
+  {
+    "country": "Indonesia",
+    "NumbeoCoL2023": 30.8,
+    "NumbeoCoLPlusRent2023": 20.5,
+    "costOfLivingLC": 548,
+    "costOfLivingByCountry_cl_expatistan": 79,
+    "costOfLivingByCountry_cl_globalEcon": 54.52,
+    "NumbeoLocalPurchasingPowerIndex2023": 24.7
+  },
+  {
+    "country": "Pakistan",
+    "NumbeoCoL2023": 17.6,
+    "NumbeoCoLPlusRent2023": 10.7,
+    "costOfLivingLC": 370,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 45.2,
+    "NumbeoLocalPurchasingPowerIndex2023": 22
+  },
+  {
+    "country": "Nigeria",
+    "NumbeoCoL2023": 23.2,
+    "NumbeoCoLPlusRent2023": 20,
+    "costOfLivingLC": 916,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 52.55,
+    "NumbeoLocalPurchasingPowerIndex2023": 9.4
+  },
+  {
+    "country": "Brazil",
+    "NumbeoCoL2023": 37.7,
+    "NumbeoCoLPlusRent2023": 23.9,
+    "costOfLivingLC": 601,
+    "costOfLivingByCountry_cl_expatistan": 83,
+    "costOfLivingByCountry_cl_globalEcon": 104.54,
+    "NumbeoLocalPurchasingPowerIndex2023": 28
+  },
+  {
+    "country": "Bangladesh",
+    "NumbeoCoL2023": 26.2,
+    "NumbeoCoLPlusRent2023": 15.1,
+    "costOfLivingLC": 521,
+    "costOfLivingByCountry_cl_expatistan": 68,
+    "costOfLivingByCountry_cl_globalEcon": 52.6,
+    "NumbeoLocalPurchasingPowerIndex2023": 26.2
+  },
+  {
+    "country": "Russia",
+    "NumbeoCoL2023": 32.1,
+    "NumbeoCoLPlusRent2023": 21.3,
+    "costOfLivingLC": 656,
+    "costOfLivingByCountry_cl_expatistan": 116,
+    "costOfLivingByCountry_cl_globalEcon": 61.96,
+    "NumbeoLocalPurchasingPowerIndex2023": 40.2
+  },
+  {
+    "country": "Ethiopia",
+    "NumbeoCoL2023": 42.3,
+    "NumbeoCoLPlusRent2023": 30.3,
+    "costOfLivingLC": 574,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 51.03,
+    "NumbeoLocalPurchasingPowerIndex2023": 11
+  },
+  {
+    "country": "Mexico",
+    "NumbeoCoL2023": 42.4,
+    "NumbeoCoLPlusRent2023": 29.1,
+    "costOfLivingLC": 678,
+    "costOfLivingByCountry_cl_expatistan": 85,
+    "costOfLivingByCountry_cl_globalEcon": 74.69,
+    "NumbeoLocalPurchasingPowerIndex2023": 39.9
+  },
+  {
+    "country": "Japan",
+    "NumbeoCoL2023": 54.3,
+    "NumbeoCoLPlusRent2023": 36.9,
+    "costOfLivingLC": 1370,
+    "costOfLivingByCountry_cl_expatistan": 147,
+    "costOfLivingByCountry_cl_globalEcon": 144.44,
+    "NumbeoLocalPurchasingPowerIndex2023": 94.3
+  },
+  {
+    "country": "Egypt",
+    "NumbeoCoL2023": 21.7,
+    "NumbeoCoLPlusRent2023": 13.1,
+    "costOfLivingLC": 449,
+    "costOfLivingByCountry_cl_expatistan": 65,
+    "costOfLivingByCountry_cl_globalEcon": 27.37,
+    "NumbeoLocalPurchasingPowerIndex2023": 17.4
+  },
+  {
+    "country": "Philippines",
+    "NumbeoCoL2023": 35.9,
+    "NumbeoCoLPlusRent2023": 23.1,
+    "costOfLivingLC": 601,
+    "costOfLivingByCountry_cl_expatistan": 92,
+    "costOfLivingByCountry_cl_globalEcon": 55.15,
+    "NumbeoLocalPurchasingPowerIndex2023": 21
+  },
+  {
+    "country": "DR Congo",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 748,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 61.73,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Vietnam",
+    "NumbeoCoL2023": 34.5,
+    "NumbeoCoLPlusRent2023": 23.2,
+    "costOfLivingLC": 639,
+    "costOfLivingByCountry_cl_expatistan": 85,
+    "costOfLivingByCountry_cl_globalEcon": 50.03,
+    "NumbeoLocalPurchasingPowerIndex2023": 30.3
+  },
+  {
+    "country": "Iran",
+    "NumbeoCoL2023": 28.4,
+    "NumbeoCoLPlusRent2023": 20.1,
+    "costOfLivingLC": 668,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 60.16,
+    "NumbeoLocalPurchasingPowerIndex2023": 21.6
+  },
+  {
+    "country": "Turkey",
+    "NumbeoCoL2023": 27.1,
+    "NumbeoCoLPlusRent2023": 18.2,
+    "costOfLivingLC": 447,
+    "costOfLivingByCountry_cl_expatistan": 59,
+    "costOfLivingByCountry_cl_globalEcon": 64.7,
+    "NumbeoLocalPurchasingPowerIndex2023": 32.5
+  },
+  {
+    "country": "Germany",
+    "NumbeoCoL2023": 66,
+    "NumbeoCoLPlusRent2023": 46.5,
+    "costOfLivingLC": 1414,
+    "costOfLivingByCountry_cl_expatistan": 146,
+    "costOfLivingByCountry_cl_globalEcon": 127.47,
+    "NumbeoLocalPurchasingPowerIndex2023": 100.2
+  },
+  {
+    "country": "Thailand",
+    "NumbeoCoL2023": 38.5,
+    "NumbeoCoLPlusRent2023": 26.2,
+    "costOfLivingLC": 831,
+    "costOfLivingByCountry_cl_expatistan": 93,
+    "costOfLivingByCountry_cl_globalEcon": 56.12,
+    "NumbeoLocalPurchasingPowerIndex2023": 31.7
+  },
+  {
+    "country": "United Kingdom",
+    "NumbeoCoL2023": 63.6,
+    "NumbeoCoLPlusRent2023": 48.1,
+    "costOfLivingLC": 1929,
+    "costOfLivingByCountry_cl_expatistan": 184,
+    "costOfLivingByCountry_cl_globalEcon": 144.03,
+    "NumbeoLocalPurchasingPowerIndex2023": 94.3
+  },
+  {
+    "country": "Tanzania",
+    "NumbeoCoL2023": 28.9,
+    "NumbeoCoLPlusRent2023": 19.4,
+    "costOfLivingLC": 760,
+    "costOfLivingByCountry_cl_expatistan": 66,
+    "costOfLivingByCountry_cl_globalEcon": 48.53,
+    "NumbeoLocalPurchasingPowerIndex2023": 20
+  },
+  {
+    "country": "France",
+    "NumbeoCoL2023": 69.1,
+    "NumbeoCoLPlusRent2023": 47.4,
+    "costOfLivingLC": 1519,
+    "costOfLivingByCountry_cl_expatistan": 142,
+    "costOfLivingByCountry_cl_globalEcon": 135.27,
+    "NumbeoLocalPurchasingPowerIndex2023": 81.5
+  },
+  {
+    "country": "South Africa",
+    "NumbeoCoL2023": 34.5,
+    "NumbeoCoLPlusRent2023": 23.8,
+    "costOfLivingLC": 974,
+    "costOfLivingByCountry_cl_expatistan": 95,
+    "costOfLivingByCountry_cl_globalEcon": 70.41,
+    "NumbeoLocalPurchasingPowerIndex2023": 78.1
+  },
+  {
+    "country": "Italy",
+    "NumbeoCoL2023": 61,
+    "NumbeoCoLPlusRent2023": 41.3,
+    "costOfLivingLC": 1359,
+    "costOfLivingByCountry_cl_expatistan": 129,
+    "costOfLivingByCountry_cl_globalEcon": 124.24,
+    "NumbeoLocalPurchasingPowerIndex2023": 63.8
+  },
+  {
+    "country": "Kenya",
+    "NumbeoCoL2023": 28.9,
+    "NumbeoCoLPlusRent2023": 18.5,
+    "costOfLivingLC": 654,
+    "costOfLivingByCountry_cl_expatistan": 84,
+    "costOfLivingByCountry_cl_globalEcon": 57.71,
+    "NumbeoLocalPurchasingPowerIndex2023": 31
+  },
+  {
+    "country": "Myanmar",
+    "NumbeoCoL2023": 33.4,
+    "NumbeoCoLPlusRent2023": 25.8,
+    "costOfLivingLC": 864,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 41.08,
+    "NumbeoLocalPurchasingPowerIndex2023": 18.5
+  },
+  {
+    "country": "Colombia",
+    "NumbeoCoL2023": 27.6,
+    "NumbeoCoLPlusRent2023": 18.3,
+    "costOfLivingLC": 574,
+    "costOfLivingByCountry_cl_expatistan": 66,
+    "costOfLivingByCountry_cl_globalEcon": 68.94,
+    "NumbeoLocalPurchasingPowerIndex2023": 27.9
+  },
+  {
+    "country": "South Korea",
+    "NumbeoCoL2023": 69.2,
+    "NumbeoCoLPlusRent2023": 44.5,
+    "costOfLivingLC": 1154,
+    "costOfLivingByCountry_cl_expatistan": 139,
+    "costOfLivingByCountry_cl_globalEcon": 123.53,
+    "NumbeoLocalPurchasingPowerIndex2023": 83.5
+  },
+  {
+    "country": "Sudan",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 517,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 38.29,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Uganda",
+    "NumbeoCoL2023": 31.3,
+    "NumbeoCoLPlusRent2023": 20.3,
+    "costOfLivingLC": 604,
+    "costOfLivingByCountry_cl_expatistan": 97,
+    "costOfLivingByCountry_cl_globalEcon": 48.47,
+    "NumbeoLocalPurchasingPowerIndex2023": 12.8
+  },
+  {
+    "country": "Spain",
+    "NumbeoCoL2023": 49.9,
+    "NumbeoCoLPlusRent2023": 36.1,
+    "costOfLivingLC": 1260,
+    "costOfLivingByCountry_cl_expatistan": 115,
+    "costOfLivingByCountry_cl_globalEcon": 113.82,
+    "NumbeoLocalPurchasingPowerIndex2023": 83.6
+  },
+  {
+    "country": "Algeria",
+    "NumbeoCoL2023": 28.6,
+    "NumbeoCoLPlusRent2023": 16.9,
+    "costOfLivingLC": 431,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 49.36,
+    "NumbeoLocalPurchasingPowerIndex2023": 24.5
+  },
+  {
+    "country": "Iraq",
+    "NumbeoCoL2023": 32.6,
+    "NumbeoCoLPlusRent2023": 21.3,
+    "costOfLivingLC": 710,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 63.39,
+    "NumbeoLocalPurchasingPowerIndex2023": 39.2
+  },
+  {
+    "country": "Argentina",
+    "NumbeoCoL2023": 30.3,
+    "NumbeoCoLPlusRent2023": 19.3,
+    "costOfLivingLC": 494,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 93.54,
+    "NumbeoLocalPurchasingPowerIndex2023": 33.9
+  },
+  {
+    "country": "Afghanistan",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 354,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Yemen",
+    "NumbeoCoL2023": 58.5,
+    "NumbeoCoLPlusRent2023": 34.1,
+    "costOfLivingLC": 559,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 16
+  },
+  {
+    "country": "Canada",
+    "NumbeoCoL2023": 68,
+    "NumbeoCoLPlusRent2023": 51.7,
+    "costOfLivingLC": 1701,
+    "costOfLivingByCountry_cl_expatistan": 176,
+    "costOfLivingByCountry_cl_globalEcon": 142.12,
+    "NumbeoLocalPurchasingPowerIndex2023": 90.9
+  },
+  {
+    "country": "Poland",
+    "NumbeoCoL2023": 44.7,
+    "NumbeoCoLPlusRent2023": 32.3,
+    "costOfLivingLC": 882,
+    "costOfLivingByCountry_cl_expatistan": 82,
+    "costOfLivingByCountry_cl_globalEcon": 70.08,
+    "NumbeoLocalPurchasingPowerIndex2023": 59.9
+  },
+  {
+    "country": "Morocco",
+    "NumbeoCoL2023": 30.1,
+    "NumbeoCoLPlusRent2023": 19.4,
+    "costOfLivingLC": 644,
+    "costOfLivingByCountry_cl_expatistan": 76,
+    "costOfLivingByCountry_cl_globalEcon": 63.47,
+    "NumbeoLocalPurchasingPowerIndex2023": 31.2
+  },
+  {
+    "country": "Angola",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 896,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 92.68,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Ukraine",
+    "NumbeoCoL2023": 30.7,
+    "NumbeoCoLPlusRent2023": 20.5,
+    "costOfLivingLC": 542,
+    "costOfLivingByCountry_cl_expatistan": 68,
+    "costOfLivingByCountry_cl_globalEcon": 37.76,
+    "NumbeoLocalPurchasingPowerIndex2023": 31.2
+  },
+  {
+    "country": "Uzbekistan",
+    "NumbeoCoL2023": 26.6,
+    "NumbeoCoLPlusRent2023": 19.4,
+    "costOfLivingLC": 529,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 25.5
+  },
+  {
+    "country": "Malaysia",
+    "NumbeoCoL2023": 32.3,
+    "NumbeoCoLPlusRent2023": 21.3,
+    "costOfLivingLC": 652,
+    "costOfLivingByCountry_cl_expatistan": 79,
+    "costOfLivingByCountry_cl_globalEcon": 57.56,
+    "NumbeoLocalPurchasingPowerIndex2023": 57.8
+  },
+  {
+    "country": "Mozambique",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1006,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 49.57,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Ghana",
+    "NumbeoCoL2023": 28.5,
+    "NumbeoCoLPlusRent2023": 24.4,
+    "costOfLivingLC": 701,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 57.69,
+    "NumbeoLocalPurchasingPowerIndex2023": 13.7
+  },
+  {
+    "country": "Peru",
+    "NumbeoCoL2023": 33.6,
+    "NumbeoCoLPlusRent2023": 22.6,
+    "costOfLivingLC": 630,
+    "costOfLivingByCountry_cl_expatistan": 77,
+    "costOfLivingByCountry_cl_globalEcon": 83.26,
+    "NumbeoLocalPurchasingPowerIndex2023": 28
+  },
+  {
+    "country": "Saudi Arabia",
+    "NumbeoCoL2023": 50.1,
+    "NumbeoCoLPlusRent2023": 31.9,
+    "costOfLivingLC": 952,
+    "costOfLivingByCountry_cl_expatistan": 116,
+    "costOfLivingByCountry_cl_globalEcon": 65.89,
+    "NumbeoLocalPurchasingPowerIndex2023": 98.7
+  },
+  {
+    "country": "Madagascar",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 555,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 44.3,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Ivory Coast",
+    "NumbeoCoL2023": 44.8,
+    "NumbeoCoLPlusRent2023": 30.5,
+    "costOfLivingLC": 1010,
+    "costOfLivingByCountry_cl_expatistan": 101,
+    "costOfLivingByCountry_cl_globalEcon": 60.86,
+    "NumbeoLocalPurchasingPowerIndex2023": 7.1
+  },
+  {
+    "country": "Nepal",
+    "NumbeoCoL2023": 25.9,
+    "NumbeoCoLPlusRent2023": 15.3,
+    "costOfLivingLC": 439,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 41.85,
+    "NumbeoLocalPurchasingPowerIndex2023": 21.2
+  },
+  {
+    "country": "Cameroon",
+    "NumbeoCoL2023": 42.3,
+    "NumbeoCoLPlusRent2023": 30.2,
+    "costOfLivingLC": 688,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 58.34,
+    "NumbeoLocalPurchasingPowerIndex2023": 8.7
+  },
+  {
+    "country": "Venezuela",
+    "NumbeoCoL2023": 41.8,
+    "NumbeoCoLPlusRent2023": 25,
+    "costOfLivingLC": 657,
+    "costOfLivingByCountry_cl_expatistan": 101,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 11.3
+  },
+  {
+    "country": "Niger",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 950,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 60.37,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Australia",
+    "NumbeoCoL2023": 75.4,
+    "NumbeoCoLPlusRent2023": 58,
+    "costOfLivingLC": 1944,
+    "costOfLivingByCountry_cl_expatistan": 174,
+    "costOfLivingByCountry_cl_globalEcon": 168.02,
+    "NumbeoLocalPurchasingPowerIndex2023": 89.3
+  },
+  {
+    "country": "North Korea",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1540,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Syria",
+    "NumbeoCoL2023": 25.2,
+    "NumbeoCoLPlusRent2023": 15.2,
+    "costOfLivingLC": 435,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 4.7
+  },
+  {
+    "country": "Mali",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 560,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 50.55,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Burkina Faso",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 799,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 49.19,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Taiwan",
+    "NumbeoCoL2023": 53.3,
+    "NumbeoCoLPlusRent2023": 34.9,
+    "costOfLivingLC": 1057,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 78.15,
+    "NumbeoLocalPurchasingPowerIndex2023": 67.8
+  },
+  {
+    "country": "Sri Lanka",
+    "NumbeoCoL2023": 33.8,
+    "NumbeoCoLPlusRent2023": 20.8,
+    "costOfLivingLC": 428,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 52.19,
+    "NumbeoLocalPurchasingPowerIndex2023": 14.6
+  },
+  {
+    "country": "Malawi",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 666,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 47.49,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Zambia",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 676,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 63.6,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Kazakhstan",
+    "NumbeoCoL2023": 34.3,
+    "NumbeoCoLPlusRent2023": 25.4,
+    "costOfLivingLC": 468,
+    "costOfLivingByCountry_cl_expatistan": 63,
+    "costOfLivingByCountry_cl_globalEcon": 55.08,
+    "NumbeoLocalPurchasingPowerIndex2023": 33.1
+  },
+  {
+    "country": "Chad",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 540,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 58.53,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Chile",
+    "NumbeoCoL2023": 47.7,
+    "NumbeoCoLPlusRent2023": 31.6,
+    "costOfLivingLC": 905,
+    "costOfLivingByCountry_cl_expatistan": 90,
+    "costOfLivingByCountry_cl_globalEcon": 105.82,
+    "NumbeoLocalPurchasingPowerIndex2023": 33.9
+  },
+  {
+    "country": "Romania",
+    "NumbeoCoL2023": 38.4,
+    "NumbeoCoLPlusRent2023": 24.8,
+    "costOfLivingLC": 652,
+    "costOfLivingByCountry_cl_expatistan": 75,
+    "costOfLivingByCountry_cl_globalEcon": 63.98,
+    "NumbeoLocalPurchasingPowerIndex2023": 47.5
+  },
+  {
+    "country": "Somalia",
+    "NumbeoCoL2023": 29.7,
+    "NumbeoCoLPlusRent2023": 17.6,
+    "costOfLivingLC": 811,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 32.4
+  },
+  {
+    "country": "Senegal",
+    "NumbeoCoL2023": 46,
+    "NumbeoCoLPlusRent2023": 34.7,
+    "costOfLivingLC": 1144,
+    "costOfLivingByCountry_cl_expatistan": 119,
+    "costOfLivingByCountry_cl_globalEcon": 58.75,
+    "NumbeoLocalPurchasingPowerIndex2023": 20.4
+  },
+  {
+    "country": "Guatemala",
+    "NumbeoCoL2023": 38.5,
+    "NumbeoCoLPlusRent2023": 26.7,
+    "costOfLivingLC": 857,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 29.2
+  },
+  {
+    "country": "Netherlands",
+    "NumbeoCoL2023": 67.5,
+    "NumbeoCoLPlusRent2023": 50.9,
+    "costOfLivingLC": 1778,
+    "costOfLivingByCountry_cl_expatistan": 169,
+    "costOfLivingByCountry_cl_globalEcon": 137.57,
+    "NumbeoLocalPurchasingPowerIndex2023": 106.9
+  },
+  {
+    "country": "Ecuador",
+    "NumbeoCoL2023": 34.2,
+    "NumbeoCoLPlusRent2023": 22.3,
+    "costOfLivingLC": 756,
+    "costOfLivingByCountry_cl_expatistan": 87,
+    "costOfLivingByCountry_cl_globalEcon": 82.35,
+    "NumbeoLocalPurchasingPowerIndex2023": 35.8
+  },
+  {
+    "country": "Cambodia",
+    "NumbeoCoL2023": 41.7,
+    "NumbeoCoLPlusRent2023": 27.5,
+    "costOfLivingLC": 692,
+    "costOfLivingByCountry_cl_expatistan": 100,
+    "costOfLivingByCountry_cl_globalEcon": 52.69,
+    "NumbeoLocalPurchasingPowerIndex2023": 16.1
+  },
+  {
+    "country": "Zimbabwe",
+    "NumbeoCoL2023": 38.7,
+    "NumbeoCoLPlusRent2023": 25.6,
+    "costOfLivingLC": 935,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 69.53,
+    "NumbeoLocalPurchasingPowerIndex2023": 17.9
+  },
+  {
+    "country": "Guinea",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 877,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 50.48,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Benin",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 731,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 54.05,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Rwanda",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 633,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 50.63,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Burundi",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 560,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 54.25,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Bolivia",
+    "NumbeoCoL2023": 30.9,
+    "NumbeoCoLPlusRent2023": 20,
+    "costOfLivingLC": 750,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 53.79,
+    "NumbeoLocalPurchasingPowerIndex2023": 29.7
+  },
+  {
+    "country": "Tunisia",
+    "NumbeoCoL2023": 27.4,
+    "NumbeoCoLPlusRent2023": 16.7,
+    "costOfLivingLC": 424,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 43.98,
+    "NumbeoLocalPurchasingPowerIndex2023": 27.6
+  },
+  {
+    "country": "South Sudan",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 519,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Haiti",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 531,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 70.01,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Belgium",
+    "NumbeoCoL2023": 65.8,
+    "NumbeoCoLPlusRent2023": 45.2,
+    "costOfLivingLC": 1495,
+    "costOfLivingByCountry_cl_expatistan": 137,
+    "costOfLivingByCountry_cl_globalEcon": 136.89,
+    "NumbeoLocalPurchasingPowerIndex2023": 90.7
+  },
+  {
+    "country": "Jordan",
+    "NumbeoCoL2023": 45.3,
+    "NumbeoCoLPlusRent2023": 27.6,
+    "costOfLivingLC": 850,
+    "costOfLivingByCountry_cl_expatistan": 125,
+    "costOfLivingByCountry_cl_globalEcon": 66.64,
+    "NumbeoLocalPurchasingPowerIndex2023": 34.9
+  },
+  {
+    "country": "Dominican Republic",
+    "NumbeoCoL2023": 43.1,
+    "NumbeoCoLPlusRent2023": 28.2,
+    "costOfLivingLC": 711,
+    "costOfLivingByCountry_cl_expatistan": 95,
+    "costOfLivingByCountry_cl_globalEcon": 73.55,
+    "NumbeoLocalPurchasingPowerIndex2023": 21.5
+  },
+  {
+    "country": "United Arab Emirates",
+    "NumbeoCoL2023": 60.7,
+    "NumbeoCoLPlusRent2023": 46.8,
+    "costOfLivingLC": 1576,
+    "costOfLivingByCountry_cl_expatistan": 179,
+    "costOfLivingByCountry_cl_globalEcon": 110.65,
+    "NumbeoLocalPurchasingPowerIndex2023": 118
+  },
+  {
+    "country": "Cuba",
+    "NumbeoCoL2023": 53,
+    "NumbeoCoLPlusRent2023": 36.2,
+    "costOfLivingLC": 880,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 1.5
+  },
+  {
+    "country": "Honduras",
+    "NumbeoCoL2023": 37.7,
+    "NumbeoCoLPlusRent2023": 24.6,
+    "costOfLivingLC": 765,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 65.87,
+    "NumbeoLocalPurchasingPowerIndex2023": 33.3
+  },
+  {
+    "country": "Czech Republic",
+    "NumbeoCoL2023": 52.8,
+    "NumbeoCoLPlusRent2023": 36.8,
+    "costOfLivingLC": 1014,
+    "costOfLivingByCountry_cl_expatistan": 100,
+    "costOfLivingByCountry_cl_globalEcon": 83.97,
+    "NumbeoLocalPurchasingPowerIndex2023": 67.9
+  },
+  {
+    "country": "Sweden",
+    "NumbeoCoL2023": 60.9,
+    "NumbeoCoLPlusRent2023": 42,
+    "costOfLivingLC": 1515,
+    "costOfLivingByCountry_cl_expatistan": 140,
+    "costOfLivingByCountry_cl_globalEcon": 155.01,
+    "NumbeoLocalPurchasingPowerIndex2023": 95.3
+  },
+  {
+    "country": "Tajikistan",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 450,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 43.51,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Papua New Guinea",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 530,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Portugal",
+    "NumbeoCoL2023": 46.1,
+    "NumbeoCoLPlusRent2023": 34.6,
+    "costOfLivingLC": 1038,
+    "costOfLivingByCountry_cl_expatistan": 111,
+    "costOfLivingByCountry_cl_globalEcon": 106.46,
+    "NumbeoLocalPurchasingPowerIndex2023": 49.8
+  },
+  {
+    "country": "Azerbaijan",
+    "NumbeoCoL2023": 30.6,
+    "NumbeoCoLPlusRent2023": 20,
+    "costOfLivingLC": 513,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 40.56,
+    "NumbeoLocalPurchasingPowerIndex2023": 28.6
+  },
+  {
+    "country": "Greece",
+    "NumbeoCoL2023": 53.2,
+    "NumbeoCoLPlusRent2023": 34,
+    "costOfLivingLC": 1008,
+    "costOfLivingByCountry_cl_expatistan": 101,
+    "costOfLivingByCountry_cl_globalEcon": 104.66,
+    "NumbeoLocalPurchasingPowerIndex2023": 41.4
+  },
+  {
+    "country": "Hungary",
+    "NumbeoCoL2023": 48,
+    "NumbeoCoLPlusRent2023": 31.2,
+    "costOfLivingLC": 817,
+    "costOfLivingByCountry_cl_expatistan": 80,
+    "costOfLivingByCountry_cl_globalEcon": 77.19,
+    "NumbeoLocalPurchasingPowerIndex2023": 48.4
+  },
+  {
+    "country": "Togo",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 669,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 60.73,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Israel",
+    "NumbeoCoL2023": 70,
+    "NumbeoCoLPlusRent2023": 50.1,
+    "costOfLivingLC": 1774,
+    "costOfLivingByCountry_cl_expatistan": 187,
+    "costOfLivingByCountry_cl_globalEcon": 167.52,
+    "NumbeoLocalPurchasingPowerIndex2023": 76.3
+  },
+  {
+    "country": "Austria",
+    "NumbeoCoL2023": 68.7,
+    "NumbeoCoLPlusRent2023": 47.2,
+    "costOfLivingLC": 1617,
+    "costOfLivingByCountry_cl_expatistan": 144,
+    "costOfLivingByCountry_cl_globalEcon": 134.56,
+    "NumbeoLocalPurchasingPowerIndex2023": 85.6
+  },
+  {
+    "country": "Belarus",
+    "NumbeoCoL2023": 36.3,
+    "NumbeoCoLPlusRent2023": 23.4,
+    "costOfLivingLC": 504,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 45.75,
+    "NumbeoLocalPurchasingPowerIndex2023": 35.9
+  },
+  {
+    "country": "Switzerland",
+    "NumbeoCoL2023": 117.3,
+    "NumbeoCoLPlusRent2023": 85.6,
+    "costOfLivingLC": 2497,
+    "costOfLivingByCountry_cl_expatistan": 231,
+    "costOfLivingByCountry_cl_globalEcon": 197.89,
+    "NumbeoLocalPurchasingPowerIndex2023": 110.8
+  },
+  {
+    "country": "Sierra Leone",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 745,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 41.32,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Laos",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 888,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 53.79,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Turkmenistan",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1141,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Hong Kong",
+    "NumbeoCoL2023": 72.4,
+    "NumbeoCoLPlusRent2023": 67,
+    "costOfLivingLC": null,
+    "costOfLivingByCountry_cl_expatistan": 243,
+    "costOfLivingByCountry_cl_globalEcon": 114.81,
+    "NumbeoLocalPurchasingPowerIndex2023": 68.8
+  },
+  {
+    "country": "Libya",
+    "NumbeoCoL2023": 23.9,
+    "NumbeoCoLPlusRent2023": 14.9,
+    "costOfLivingLC": 560,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 31.6
+  },
+  {
+    "country": "Kyrgyzstan",
+    "NumbeoCoL2023": 29.9,
+    "NumbeoCoLPlusRent2023": 21,
+    "costOfLivingLC": 430,
+    "costOfLivingByCountry_cl_expatistan": 69,
+    "costOfLivingByCountry_cl_globalEcon": 40.38,
+    "NumbeoLocalPurchasingPowerIndex2023": 22.8
+  },
+  {
+    "country": "Paraguay",
+    "NumbeoCoL2023": 29.1,
+    "NumbeoCoLPlusRent2023": 19.9,
+    "costOfLivingLC": 546,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 65.46,
+    "NumbeoLocalPurchasingPowerIndex2023": 25.3
+  },
+  {
+    "country": "Nicaragua",
+    "NumbeoCoL2023": 34.9,
+    "NumbeoCoLPlusRent2023": 22.3,
+    "costOfLivingLC": 633,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 54.99,
+    "NumbeoLocalPurchasingPowerIndex2023": 18.7
+  },
+  {
+    "country": "Bulgaria",
+    "NumbeoCoL2023": 40.3,
+    "NumbeoCoLPlusRent2023": 25.7,
+    "costOfLivingLC": 654,
+    "costOfLivingByCountry_cl_expatistan": 75,
+    "costOfLivingByCountry_cl_globalEcon": 60.89,
+    "NumbeoLocalPurchasingPowerIndex2023": 49.2
+  },
+  {
+    "country": "Serbia",
+    "NumbeoCoL2023": 40.5,
+    "NumbeoCoLPlusRent2023": 27.9,
+    "costOfLivingLC": 711,
+    "costOfLivingByCountry_cl_expatistan": 85,
+    "costOfLivingByCountry_cl_globalEcon": 64.05,
+    "NumbeoLocalPurchasingPowerIndex2023": 34.9
+  },
+  {
+    "country": "El Salvador",
+    "NumbeoCoL2023": 42.3,
+    "NumbeoCoLPlusRent2023": 29.1,
+    "costOfLivingLC": 816,
+    "costOfLivingByCountry_cl_expatistan": 97,
+    "costOfLivingByCountry_cl_globalEcon": 73.82,
+    "NumbeoLocalPurchasingPowerIndex2023": 21.7
+  },
+  {
+    "country": "Republic of the Congo",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": null,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 70.42,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Denmark",
+    "NumbeoCoL2023": 79.2,
+    "NumbeoCoLPlusRent2023": 56.2,
+    "costOfLivingLC": 1837,
+    "costOfLivingByCountry_cl_expatistan": 175,
+    "costOfLivingByCountry_cl_globalEcon": 171.78,
+    "NumbeoLocalPurchasingPowerIndex2023": 96.9
+  },
+  {
+    "country": "Singapore",
+    "NumbeoCoL2023": 85.9,
+    "NumbeoCoLPlusRent2023": 89.8,
+    "costOfLivingLC": 2169,
+    "costOfLivingByCountry_cl_expatistan": 217,
+    "costOfLivingByCountry_cl_globalEcon": 112.16,
+    "NumbeoLocalPurchasingPowerIndex2023": 85.9
+  },
+  {
+    "country": "Lebanon",
+    "NumbeoCoL2023": 53.1,
+    "NumbeoCoLPlusRent2023": 36.1,
+    "costOfLivingLC": 1411,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 19.4
+  },
+  {
+    "country": "Finland",
+    "NumbeoCoL2023": 68.7,
+    "NumbeoCoLPlusRent2023": 46.8,
+    "costOfLivingLC": 1536,
+    "costOfLivingByCountry_cl_expatistan": 165,
+    "costOfLivingByCountry_cl_globalEcon": 151.13,
+    "NumbeoLocalPurchasingPowerIndex2023": 93.8
+  },
+  {
+    "country": "Liberia",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 544,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 61.04,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Norway",
+    "NumbeoCoL2023": 82.2,
+    "NumbeoCoLPlusRent2023": 56.4,
+    "costOfLivingLC": 2074,
+    "costOfLivingByCountry_cl_expatistan": 193,
+    "costOfLivingByCountry_cl_globalEcon": 186.52,
+    "NumbeoLocalPurchasingPowerIndex2023": 90.7
+  },
+  {
+    "country": "Slovakia",
+    "NumbeoCoL2023": 47.5,
+    "NumbeoCoLPlusRent2023": 32,
+    "costOfLivingLC": 990,
+    "costOfLivingByCountry_cl_expatistan": 102,
+    "costOfLivingByCountry_cl_globalEcon": 93.82,
+    "NumbeoLocalPurchasingPowerIndex2023": 51.2
+  },
+  {
+    "country": "Palestine",
+    "NumbeoCoL2023": 45.1,
+    "NumbeoCoLPlusRent2023": 27.7,
+    "costOfLivingLC": 937,
+    "costOfLivingByCountry_cl_expatistan": 133,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 35.7
+  },
+  {
+    "country": "Central African Republic",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 538,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 75.56,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Oman",
+    "NumbeoCoL2023": 49.6,
+    "NumbeoCoLPlusRent2023": 33.1,
+    "costOfLivingLC": 1086,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 78.88,
+    "NumbeoLocalPurchasingPowerIndex2023": 106.2
+  },
+  {
+    "country": "Ireland",
+    "NumbeoCoL2023": 70.4,
+    "NumbeoCoLPlusRent2023": 57.2,
+    "costOfLivingLC": 2316,
+    "costOfLivingByCountry_cl_expatistan": 193,
+    "costOfLivingByCountry_cl_globalEcon": 157.19,
+    "NumbeoLocalPurchasingPowerIndex2023": 80
+  },
+  {
+    "country": "New Zealand",
+    "NumbeoCoL2023": 70.7,
+    "NumbeoCoLPlusRent2023": 51.5,
+    "costOfLivingLC": 1782,
+    "costOfLivingByCountry_cl_expatistan": 177,
+    "costOfLivingByCountry_cl_globalEcon": 160.18,
+    "NumbeoLocalPurchasingPowerIndex2023": 87.3
+  },
+  {
+    "country": "Mauritania",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 781,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 49.9,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Costa Rica",
+    "NumbeoCoL2023": 53,
+    "NumbeoCoLPlusRent2023": 35.3,
+    "costOfLivingLC": 852,
+    "costOfLivingByCountry_cl_expatistan": 107,
+    "costOfLivingByCountry_cl_globalEcon": 94.13,
+    "NumbeoLocalPurchasingPowerIndex2023": 37.9
+  },
+  {
+    "country": "Kuwait",
+    "NumbeoCoL2023": 46.1,
+    "NumbeoCoLPlusRent2023": 36.3,
+    "costOfLivingLC": 1326,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 88.57,
+    "NumbeoLocalPurchasingPowerIndex2023": 106.9
+  },
+  {
+    "country": "Panama",
+    "NumbeoCoL2023": 48.2,
+    "NumbeoCoLPlusRent2023": 35.1,
+    "costOfLivingLC": 1092,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 72.83,
+    "NumbeoLocalPurchasingPowerIndex2023": 33.3
+  },
+  {
+    "country": "Croatia",
+    "NumbeoCoL2023": 47.4,
+    "NumbeoCoLPlusRent2023": 30.9,
+    "costOfLivingLC": 1001,
+    "costOfLivingByCountry_cl_expatistan": 98,
+    "costOfLivingByCountry_cl_globalEcon": 82.76,
+    "NumbeoLocalPurchasingPowerIndex2023": 54.5
+  },
+  {
+    "country": "Georgia",
+    "NumbeoCoL2023": 40.6,
+    "NumbeoCoLPlusRent2023": 30.5,
+    "costOfLivingLC": 538,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 52.82,
+    "NumbeoLocalPurchasingPowerIndex2023": 25.2
+  },
+  {
+    "country": "Eritrea",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 538,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Mongolia",
+    "NumbeoCoL2023": 32.3,
+    "NumbeoCoLPlusRent2023": 22.4,
+    "costOfLivingLC": 603,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 51.32,
+    "NumbeoLocalPurchasingPowerIndex2023": 21.9
+  },
+  {
+    "country": "Uruguay",
+    "NumbeoCoL2023": 61,
+    "NumbeoCoLPlusRent2023": 39.7,
+    "costOfLivingLC": 929,
+    "costOfLivingByCountry_cl_expatistan": 134,
+    "costOfLivingByCountry_cl_globalEcon": 124.24,
+    "NumbeoLocalPurchasingPowerIndex2023": 40.6
+  },
+  {
+    "country": "Puerto Rico",
+    "NumbeoCoL2023": 68.5,
+    "NumbeoCoLPlusRent2023": 47.5,
+    "costOfLivingLC": null,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 55.9
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 599,
+    "costOfLivingByCountry_cl_expatistan": 84,
+    "costOfLivingByCountry_cl_globalEcon": 64.74,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Qatar",
+    "NumbeoCoL2023": 59.3,
+    "NumbeoCoLPlusRent2023": 52.6,
+    "costOfLivingLC": 1856,
+    "costOfLivingByCountry_cl_expatistan": 181,
+    "costOfLivingByCountry_cl_globalEcon": 113.61,
+    "NumbeoLocalPurchasingPowerIndex2023": 120.2
+  },
+  {
+    "country": "Moldova",
+    "NumbeoCoL2023": 35.9,
+    "NumbeoCoLPlusRent2023": 23.1,
+    "costOfLivingLC": 537,
+    "costOfLivingByCountry_cl_expatistan": 56,
+    "costOfLivingByCountry_cl_globalEcon": 49.48,
+    "NumbeoLocalPurchasingPowerIndex2023": 34
+  },
+  {
+    "country": "Namibia",
+    "NumbeoCoL2023": 31.4,
+    "NumbeoCoLPlusRent2023": 21.5,
+    "costOfLivingLC": 921,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 74.28,
+    "NumbeoLocalPurchasingPowerIndex2023": 47.7
+  },
+  {
+    "country": "Armenia",
+    "NumbeoCoL2023": 43.1,
+    "NumbeoCoLPlusRent2023": 34.2,
+    "costOfLivingLC": 592,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 49.68,
+    "NumbeoLocalPurchasingPowerIndex2023": 28
+  },
+  {
+    "country": "Lithuania",
+    "NumbeoCoL2023": 49.9,
+    "NumbeoCoLPlusRent2023": 34.3,
+    "costOfLivingLC": 869,
+    "costOfLivingByCountry_cl_expatistan": 105,
+    "costOfLivingByCountry_cl_globalEcon": 79.09,
+    "NumbeoLocalPurchasingPowerIndex2023": 54.8
+  },
+  {
+    "country": "Jamaica",
+    "NumbeoCoL2023": 54.4,
+    "NumbeoCoLPlusRent2023": 35.2,
+    "costOfLivingLC": 829,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 78.85,
+    "NumbeoLocalPurchasingPowerIndex2023": 27.8
+  },
+  {
+    "country": "Albania",
+    "NumbeoCoL2023": 40.4,
+    "NumbeoCoLPlusRent2023": 25.7,
+    "costOfLivingLC": 608,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 60.79,
+    "NumbeoLocalPurchasingPowerIndex2023": 28.3
+  },
+  {
+    "country": "Gambia",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 520,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 46.48,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Gabon",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 587,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 78.6,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Botswana",
+    "NumbeoCoL2023": 31.9,
+    "NumbeoCoLPlusRent2023": 20,
+    "costOfLivingLC": 666,
+    "costOfLivingByCountry_cl_expatistan": 76,
+    "costOfLivingByCountry_cl_globalEcon": 69.39,
+    "NumbeoLocalPurchasingPowerIndex2023": 61.9
+  },
+  {
+    "country": "Lesotho",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 694,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 56.38,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Guinea-Bissau",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 712,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 57.18,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Slovenia",
+    "NumbeoCoL2023": 51.6,
+    "NumbeoCoLPlusRent2023": 35.5,
+    "costOfLivingLC": 1175,
+    "costOfLivingByCountry_cl_expatistan": 119,
+    "costOfLivingByCountry_cl_globalEcon": 103.47,
+    "NumbeoLocalPurchasingPowerIndex2023": 59.6
+  },
+  {
+    "country": "Equatorial Guinea",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1185,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 74.93,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Latvia",
+    "NumbeoCoL2023": 51,
+    "NumbeoCoLPlusRent2023": 32,
+    "costOfLivingLC": 938,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 89.68,
+    "NumbeoLocalPurchasingPowerIndex2023": 50.3
+  },
+  {
+    "country": "North Macedonia",
+    "NumbeoCoL2023": 32.5,
+    "NumbeoCoLPlusRent2023": 19.8,
+    "costOfLivingLC": 553,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 58.3,
+    "NumbeoLocalPurchasingPowerIndex2023": 35.9
+  },
+  {
+    "country": "Bahrain",
+    "NumbeoCoL2023": 56,
+    "NumbeoCoLPlusRent2023": 40.5,
+    "costOfLivingLC": 1165,
+    "costOfLivingByCountry_cl_expatistan": 141,
+    "costOfLivingByCountry_cl_globalEcon": 77.81,
+    "NumbeoLocalPurchasingPowerIndex2023": 78.1
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 979,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 89.05,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Estonia",
+    "NumbeoCoL2023": 55.9,
+    "NumbeoCoLPlusRent2023": 37,
+    "costOfLivingLC": 1040,
+    "costOfLivingByCountry_cl_expatistan": 106,
+    "costOfLivingByCountry_cl_globalEcon": 96.58,
+    "NumbeoLocalPurchasingPowerIndex2023": 62.7
+  },
+  {
+    "country": "Cyprus",
+    "NumbeoCoL2023": 59.2,
+    "NumbeoCoLPlusRent2023": 44.4,
+    "costOfLivingLC": 1266,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 108.2,
+    "NumbeoLocalPurchasingPowerIndex2023": 52.6
+  },
+  {
+    "country": "Mauritius",
+    "NumbeoCoL2023": 41,
+    "NumbeoCoLPlusRent2023": 26.8,
+    "costOfLivingLC": 651,
+    "costOfLivingByCountry_cl_expatistan": 95,
+    "costOfLivingByCountry_cl_globalEcon": 74.87,
+    "NumbeoLocalPurchasingPowerIndex2023": 28.6
+  },
+  {
+    "country": "Eswatini",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 711,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 65.77,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Djibouti",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 548,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 84.48,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Fiji",
+    "NumbeoCoL2023": 34.9,
+    "NumbeoCoLPlusRent2023": 25.6,
+    "costOfLivingLC": 773,
+    "costOfLivingByCountry_cl_expatistan": 96,
+    "costOfLivingByCountry_cl_globalEcon": 68.38,
+    "NumbeoLocalPurchasingPowerIndex2023": 68.8
+  },
+  {
+    "country": "Comoros",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 589,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 70.11,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Guyana",
+    "NumbeoCoL2023": 47.9,
+    "NumbeoCoLPlusRent2023": 30.5,
+    "costOfLivingLC": 803,
+    "costOfLivingByCountry_cl_expatistan": 93,
+    "costOfLivingByCountry_cl_globalEcon": 78.11,
+    "NumbeoLocalPurchasingPowerIndex2023": 20
+  },
+  {
+    "country": "Solomon Islands",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1222,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Bhutan",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 569,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 45.07,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Macau",
+    "NumbeoCoL2023": 65,
+    "NumbeoCoLPlusRent2023": 49.6,
+    "costOfLivingLC": null,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 78.7
+  },
+  {
+    "country": "Luxembourg",
+    "NumbeoCoL2023": 71.7,
+    "NumbeoCoLPlusRent2023": 59.3,
+    "costOfLivingLC": 2163,
+    "costOfLivingByCountry_cl_expatistan": 165,
+    "costOfLivingByCountry_cl_globalEcon": 156.4,
+    "NumbeoLocalPurchasingPowerIndex2023": 133.2
+  },
+  {
+    "country": "Montenegro",
+    "NumbeoCoL2023": 42.4,
+    "NumbeoCoLPlusRent2023": 29.7,
+    "costOfLivingLC": 720,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 67.81,
+    "NumbeoLocalPurchasingPowerIndex2023": 38.2
+  },
+  {
+    "country": "Suriname",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 714,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 55.71,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Malta",
+    "NumbeoCoL2023": 59.4,
+    "NumbeoCoLPlusRent2023": 43.7,
+    "costOfLivingLC": 1519,
+    "costOfLivingByCountry_cl_expatistan": 148,
+    "costOfLivingByCountry_cl_globalEcon": 101.71,
+    "NumbeoLocalPurchasingPowerIndex2023": 51.7
+  },
+  {
+    "country": "Maldives",
+    "NumbeoCoL2023": 53.4,
+    "NumbeoCoLPlusRent2023": 39.9,
+    "costOfLivingLC": 1288,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 91.24,
+    "NumbeoLocalPurchasingPowerIndex2023": 33.8
+  },
+  {
+    "country": "Cape Verde",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 797,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 69.79,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Brunei",
+    "NumbeoCoL2023": 54.2,
+    "NumbeoCoLPlusRent2023": 36,
+    "costOfLivingLC": 1152,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 72.31,
+    "NumbeoLocalPurchasingPowerIndex2023": 73.5
+  },
+  {
+    "country": "Belize",
+    "NumbeoCoL2023": 50,
+    "NumbeoCoLPlusRent2023": 31.2,
+    "costOfLivingLC": 889,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 105.86,
+    "NumbeoLocalPurchasingPowerIndex2023": 44.2
+  },
+  {
+    "country": "Bahamas",
+    "NumbeoCoL2023": 93.7,
+    "NumbeoCoLPlusRent2023": 68.5,
+    "costOfLivingLC": 1715,
+    "costOfLivingByCountry_cl_expatistan": 232,
+    "costOfLivingByCountry_cl_globalEcon": 158.09,
+    "NumbeoLocalPurchasingPowerIndex2023": 37.4
+  },
+  {
+    "country": "Iceland",
+    "NumbeoCoL2023": 87.7,
+    "NumbeoCoLPlusRent2023": 64.7,
+    "costOfLivingLC": 2207,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 209.1,
+    "NumbeoLocalPurchasingPowerIndex2023": 100.4
+  },
+  {
+    "country": "Vanuatu",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1829,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Barbados",
+    "NumbeoCoL2023": 84.2,
+    "NumbeoCoLPlusRent2023": 53.8,
+    "costOfLivingLC": 1258,
+    "costOfLivingByCountry_cl_expatistan": 157,
+    "costOfLivingByCountry_cl_globalEcon": 169.9,
+    "NumbeoLocalPurchasingPowerIndex2023": 34.3
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 880,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 70.92,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Samoa",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1109,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Curacao",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1222,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Saint Lucia",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1153,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 110.38,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Kiribati",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 511,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Seychelles",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1725,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 94.81,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Grenada",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1128,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 95.54,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Aruba",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": null,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 118.56,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Tonga",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1035,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Jersey",
+    "NumbeoCoL2023": 82.6,
+    "NumbeoCoLPlusRent2023": 69.6,
+    "costOfLivingLC": null,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 67.8
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": null,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 95.93,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1465,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 131.03,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Andorra",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1232,
+    "costOfLivingByCountry_cl_expatistan": 159,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Cayman Islands",
+    "NumbeoCoL2023": 115.4,
+    "NumbeoCoLPlusRent2023": 98.5,
+    "costOfLivingLC": 2844,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 71.4
+  },
+  {
+    "country": "Dominica",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 856,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": 99.61,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Bermuda",
+    "NumbeoCoL2023": 141.1,
+    "NumbeoCoLPlusRent2023": 118.2,
+    "costOfLivingLC": null,
+    "costOfLivingByCountry_cl_expatistan": 292,
+    "costOfLivingByCountry_cl_globalEcon": 225.86,
+    "NumbeoLocalPurchasingPowerIndex2023": 75.9
+  },
+  {
+    "country": "Guernsey",
+    "NumbeoCoL2023": 71.8,
+    "NumbeoCoLPlusRent2023": 60.5,
+    "costOfLivingLC": null,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": 79.2
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1145,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Liechtenstein",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 2306,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Monaco",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 3743,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Marshall Islands",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1464,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "San Marino",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1168,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Palau",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 1040,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Nauru",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 584,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  },
+  {
+    "country": "Tuvalu",
+    "NumbeoCoL2023": null,
+    "NumbeoCoLPlusRent2023": null,
+    "costOfLivingLC": 608,
+    "costOfLivingByCountry_cl_expatistan": null,
+    "costOfLivingByCountry_cl_globalEcon": null,
+    "NumbeoLocalPurchasingPowerIndex2023": null
+  }
+]
