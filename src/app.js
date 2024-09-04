@@ -7,11 +7,7 @@ import countriesRoutes from "./routes/countries.routes.js";
 // createData()
 const app = express();
 
-app.use(
-   cors({
-      origin: "https://worldswikipedia.vercel.app/",
-   })
-);
+app.use(cors());
 app.use(express.json());
 config();
 
