@@ -2,24 +2,25 @@ import countriesModel from "../models/countries.model.js";
 
 export const getAllCountries = async (req, res) => {
    try {
-      const { sortBy, order } = req.query;
+      const { sortBy = "place", order = "highest" } = req.query;
 
-      const sortField = sortBy || "place";
-      const sortOrder = order === "lowest" ? 1 : -1;
+      // Determine sort order
+      let sortOrder = order === "lowest" ? 1 : -1;
+      if (sortBy === "place") sortOrder = order === "lowest" ? -1 : 1;
 
-      //   const allCountries = await countriesModel
-      //      .find()
-      //      .sort({ [sortField]: sortOrder });
-
-      const nonNullCountries = await countriesModel
-         .find({
-            [sortField]: { $ne: null },
-         })
-         .sort({ [sortField]: sortOrder })
+      // Sort by field
+      const allCountries = await countriesModel
+         .find()
+         .sort({ [sortBy]: sortOrder })
          .exec();
-      const nullCountries = await countriesModel
-         .find({ [sortField]: null })
-         .exec();
+
+      // Separate non-null and null entries
+      const nonNullCountries = allCountries.filter(
+         (country) => country[sortBy] !== null
+      );
+      const nullCountries = allCountries.filter(
+         (country) => country[sortBy] === null
+      );
 
       res.status(200).json({
          status: "success",
