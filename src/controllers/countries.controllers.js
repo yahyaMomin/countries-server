@@ -58,3 +58,23 @@ export const getSearchCountries = async (req, res) => {
       return res.status(500).json({ status: "error", msg: error.message });
    }
 };
+
+export const getMultipleCountries = async (req, res) => {
+   try {
+      const capitalizeFirstLetter = (string) => {
+         return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase();
+      };
+      const ids = req.query.ids
+         ? req.query.ids.split(",").map(capitalizeFirstLetter)
+         : [];
+      const countries = await countriesModel.find({ country: { $in: ids } });
+
+      if (!countries.length)
+         return res
+            .status(404)
+            .json({ status: "error", msg: "countries not found" });
+      return res.status(200).json({ status: "success", countries });
+   } catch (error) {
+      return res.status(500).json({ status: "error", msg: error.message });
+   }
+};
